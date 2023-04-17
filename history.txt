@@ -1,0 +1,50 @@
+  505  git pull https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-03-2023-U-B.git
+  506  pwd
+  507  cd ..
+  508  ls
+  509  cd Module4
+  510  ls
+  511  mkdir GitUpload
+  512  cd GitUpload/
+  513  open .
+  514  cd Module_4_Challenge/
+  515  git init -b main
+  516  git add . && git commit -m "initial commit"
+  517  gh repo create
+  518  open
+  519  open .
+  520  git pull https://github.com/yv-i/Module_4_Challenge.git
+  521  git pull.rebase false  https://github.com/yv-i/Module_4_Challenge.git
+  522  git pull.rebase false https://github.com/yv-i/Module_4_Challenge.git
+  523  git pull https://github.com/yv-i/Module_4_Challenge.git
+  524  git pull https://github.com/yv-i/Module_4_Challenge.git
+  525  cd ..
+  526  cd ---
+  527  cd --
+  528  cd --
+  529  cd -
+  530  cd -
+  531  cd Python/
+  532  ls
+  533  cd Module4
+  534  ls
+  535  git pull https://github.com/yv-i/Module_4_Challenge.git
+  536  cd GitUpload/
+  537  git pull https://github.com/yv-i/Module_4_Challenge.git
+  538  git pull https://github.com/yv-i/Module_4_Challenge.git
+  539  git clone https://github.com/yv-i/Module_4_Challenge.git
+  540  git push
+  541  ls
+  542  git push
+  543  cd Module_4_Challenge/
+  544  git push
+  545  git add
+  546  git add . && git commit -m "saving progress"
+  547  git push
+  548  git add . && git commit -m "saving progress"
+  549  git push
+  550  git add . && git commit -m "stuck on graphs"
+  551  git push
+  552  git add . && git commit -m "last draft"
+  553  git push
+  554  history 50 > history.txt
